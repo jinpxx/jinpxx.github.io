@@ -1,13 +1,13 @@
-let myImage = document.querySelector("img");
+// let myImage = document.querySelector("img");
 
-myImage.onclick = function () {
-  let mySrc = myImage.getAttribute("src");
-  if (mySrc === "images/cutecat.jpg") {
-    myImage.setAttribute("src", "images/cutecat2.png");
-  } else {
-    myImage.setAttribute("src", "images/cutecat.jpg");
-  }
-};
+// myImage.onclick = function () {
+//   let mySrc = myImage.getAttribute("src");
+//   if (mySrc === "images/cutecat.jpg") {
+//     myImage.setAttribute("src", "images/cutecat2.png");
+//   } else {
+//     myImage.setAttribute("src", "images/cutecat.jpg");
+//   }
+// };
 
 // let myButton = document.querySelector("button");
 // let myHeading = document.querySelector("h1");
